@@ -26,7 +26,7 @@ class ArticlesActivity : AppCompatActivity() {
         setupRecyclerView()
         observeArticles()
 
-        val apiKey = "d8b7ac86f95b4b549efb65f4773fde20"
+        val apiKey = "lololol"
         viewModel.fetchArticles(apiKey)
     }
 
