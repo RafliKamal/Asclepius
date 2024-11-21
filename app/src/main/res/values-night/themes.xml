@@ -1,0 +1,12 @@
+<resources >
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primaryDark</item>
+        <item name="colorSecondary">@color/secondaryDark</item>
+        <item name="colorOnPrimary">@color/buttonTextDark</item>
+    </style>
+
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius" />
+</resources>

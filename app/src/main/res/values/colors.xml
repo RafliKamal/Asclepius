@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#333333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#F7F7F7</color>
+    <color name="primaryDay">#1D7874</color>
+    <color name="secondaryDay">#FFB400</color>
+    <color name="buttonPrimaryDay">#1C658C</color>
+    <color name="buttonSecondaryDay">#C1C8E4</color>
+    <color name="buttonTextDay">#FFFFFF</color>
+
+    <color name="primaryDark">#144552</color>
+    <color name="secondaryDark">#FF9900</color>
+    <color name="buttonPrimaryDark">#123B5A</color>
+    <color name="buttonTextDark">#E0E0E0</color>
+</resources>
